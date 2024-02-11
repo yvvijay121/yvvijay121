@@ -5,7 +5,7 @@ I'm a student interested in exploring computer science, biochemistry, economic p
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/yvvijay121/yvvijay121">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvvijay121&theme=nord&layout=compact&hide=html,makefile&card_width=250" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvvijay121&theme=nord&layout=normal&hide=html,makefile&card_width=250" />
 </a>
 
 ## 🔧 Technologies & Tools
