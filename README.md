@@ -2,12 +2,6 @@
 
 I'm a student interested in exploring computer science, biochemistry, economic policy, and medical research.
 
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/yvvijay121/yvvijay121">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvvijay121&theme=nord&layout=normal&hide=html,makefile&card_width=250" />
-</a>
-
 ## 🔧 Technologies & Tools
 ### Languages
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
